@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/kaziislam/food-festival/issues"
   },
-  "homepage": "https://github.com/kaziislam/food-festival#readme",
+  "homepage": "https://github.com/kaziislam/food-festival",
   "devDependencies": {
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
